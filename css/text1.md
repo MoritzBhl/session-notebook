@@ -4,3 +4,4 @@ new text
 try
 next
 now i want to try something
+try to add several files with just one commit
